@@ -3,6 +3,7 @@
 
 Hi 👋, this is one of my beginner data analytics projects.
 I wanted to take some raw travel expense data, clean it, and then turn it into something visual and easy to understand.
+International Tourism Dashboard – A Power BI project analyzing global tourism data. It highlights key insights on travel trends, visitor spending, and country-wise comparisons with interactive visualizations for better decision-making.
 
 🛠 What I used
 
